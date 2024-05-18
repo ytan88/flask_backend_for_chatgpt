@@ -1,5 +1,5 @@
 # flask_backend_for_chatgpt
-A simple Flask backend that uses the ChatGPT API to read and remove events on a Calendly account for automated scheduling and management.
+A simple Flask backend that uses the ChatGPT API to show and remove events on a Calendly account for automated scheduling and management.
 
 # This project implemented a chatbot server and CLI to interact with it.
     The sever part run on Ubuntu22 Linux as local or microservice.
