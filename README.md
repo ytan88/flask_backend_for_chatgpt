@@ -27,7 +27,7 @@ A simple Flask backend that uses the ChatGPT API to show and remove events on a 
     Event Start Time: 2024-03-15 18:15:00, Event End Time: 2024-03-15 18:45:00, UUID: fa8a527d-194e-464f-bceb-643ae19c5b26
     Ask chatbot (or 'quit' to exit):
 
-### To cancel an event, you can ask "I want to cancle one event with uuid = 392b36c8-1e98-4403-b886-6d8272a84ed3 on Calendy account.". The uuid is the UUID string in above reply.
+### To cancel an event, you can ask "I want to cancel one event with uuid = 392b36c8-1e98-4403-b886-6d8272a84ed3 on Calendy account.". The uuid is the UUID string in above reply.
 
 # packages to install
     sudo apt install code
